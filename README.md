@@ -4,7 +4,7 @@ Disclaimer for JGSTmx
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us.
 
 Disclaimers for JGSTmx co.
-All the information on this website is published in good faith and for general information purpose only. Website Name does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Website.com), is strictly at your own risk. will not be liable for any losses and/or damages in connection with the use of our website.
+All the information on this website is published in good faith and for general information purpose only. Website Name does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (https://github.com/JGSTmx/colorado), is strictly at your own risk. will not be liable for any losses and/or damages in connection with the use of our website.
 
 From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone ‘bad'.
 
